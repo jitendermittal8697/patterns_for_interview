@@ -1,0 +1,178 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern29",
+            "request": "launch",
+            "mainClass": "pattern29"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - N",
+            "request": "launch",
+            "mainClass": "N"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Z",
+            "request": "launch",
+            "mainClass": "Z"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern26",
+            "request": "launch",
+            "mainClass": "pattern26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern25",
+            "request": "launch",
+            "mainClass": "pattern25"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern24",
+            "request": "launch",
+            "mainClass": "pattern24"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern23",
+            "request": "launch",
+            "mainClass": "pattern23"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern22",
+            "request": "launch",
+            "mainClass": "pattern22"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern21",
+            "request": "launch",
+            "mainClass": "pattern21"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern20",
+            "request": "launch",
+            "mainClass": "pattern20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern19",
+            "request": "launch",
+            "mainClass": "pattern19"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern18",
+            "request": "launch",
+            "mainClass": "pattern18"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern17",
+            "request": "launch",
+            "mainClass": "pattern17"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern16",
+            "request": "launch",
+            "mainClass": "pattern16"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern15",
+            "request": "launch",
+            "mainClass": "pattern15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern14",
+            "request": "launch",
+            "mainClass": "pattern14"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern13",
+            "request": "launch",
+            "mainClass": "pattern13"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern12",
+            "request": "launch",
+            "mainClass": "pattern12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern11",
+            "request": "launch",
+            "mainClass": "pattern11"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern10",
+            "request": "launch",
+            "mainClass": "pattern10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern9",
+            "request": "launch",
+            "mainClass": "pattern9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern8",
+            "request": "launch",
+            "mainClass": "pattern8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern7",
+            "request": "launch",
+            "mainClass": "pattern7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattern6",
+            "request": "launch",
+            "mainClass": "pattern6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Diamond_Character",
+            "request": "launch",
+            "mainClass": "Diamond_Character"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Diamond_number",
+            "request": "launch",
+            "mainClass": "Diamond_number"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Diamond",
+            "request": "launch",
+            "mainClass": "Diamond"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pascals_triangle",
+            "request": "launch",
+            "mainClass": "Pascals_triangle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - floyd_triangle",
+            "request": "launch",
+            "mainClass": "floyd_triangle"
+        }
+    ]
+}
